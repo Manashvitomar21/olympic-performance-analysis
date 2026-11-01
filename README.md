@@ -14,5 +14,11 @@
  *Column names were cleaned (e.g. Country (Medal Results.Csv) → Country).
  
  *Investment Score was added to medal_results (Low = 1, Medium = 2, High = 3).
+# Tableau Dashboard 1
+ https://public.tableau.com/app/profile/manashvi.tomar/viz/Olympic_Performance_Analysis_FINAL/01GlobalOlympicPerformance?publish=ye
+# Tableau Dashboard 2
+ https://public.tableau.com/app/profile/manashvi.tomar/viz/Olympic_Performance_Analysis_FINAL/02EfficiencyPerformance?publish=yes
 # Deployed Website link
  https://olympic-performance-analysis-1-ccxr.onrender.com/
+# Record explanation Video for project
+ https://drive.google.com/drive/folders/1DTU1qKEebRiRS8QARcQ3smab37fT_Ebi
