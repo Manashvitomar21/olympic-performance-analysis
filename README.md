@@ -18,6 +18,8 @@
  https://public.tableau.com/app/profile/manashvi.tomar/viz/Olympic_Performance_Analysis_FINAL/01GlobalOlympicPerformance?publish=ye
 # Tableau Dashboard 2
  https://public.tableau.com/app/profile/manashvi.tomar/viz/Olympic_Performance_Analysis_FINAL/02EfficiencyPerformance?publish=yes
+# Tableau Story 
+ https://public.tableau.com/app/profile/manashvi.tomar/viz/Olympic_Performance_Analysis_FINAL/TheOlympicStory?publish=yes
 # Deployed Website link
  https://olympic-performance-analysis-1-ccxr.onrender.com/
 # Record explanation Video for project
